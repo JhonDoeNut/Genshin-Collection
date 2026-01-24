@@ -68,7 +68,7 @@ a{
 }
 
 .card{
-    position: relative; /* obligatoire pour placer les icônes */
+    position: relative;
     border-radius: 18px;
     overflow: hidden;
     background: rgba(20, 24, 30, 0.38);
